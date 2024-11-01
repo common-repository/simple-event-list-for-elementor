@@ -1,0 +1,13 @@
+.miga_simple_events_ul.miga_simple_events_theme2 li {
+  margin-bottom: 10px;
+}
+
+.miga_simple_events_container .miga_simple_events_theme2 .miga_simple_events_text_content {
+  font-size: 1.2em;
+}
+
+.miga_simple_events_container .miga_simple_events_theme2 .miga_simple_events_date {
+  font-size: 0.8em;
+  line-height: 0.8em;
+  font-weight: bold;
+}

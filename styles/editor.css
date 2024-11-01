@@ -1,0 +1,17 @@
+.submit_button p.submit {
+  padding: 0;
+  margin: 0;
+}
+
+.miga_calendar_status #timeFrom,
+.miga_calendar_status #timeTo {
+  width: 100px;
+  text-align: center;
+}
+
+.miga_calendar_status #text {
+  width: 300px;
+}
+.miga_calendar_status #link {
+  width: 200px;
+}

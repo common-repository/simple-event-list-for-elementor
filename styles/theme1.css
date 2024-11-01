@@ -1,0 +1,58 @@
+.miga_simple_events_container .miga_simple_events_theme1 .miga_simple_events_flex {
+  display: flex;
+  align-items: center;
+}
+
+.miga_simple_events_container .miga_simple_events_theme1 .miga_simple_events_date {
+  text-align: center;
+  font-size: 16px;
+  background-color: #efefef;
+  border-radius: 6px;
+  margin-right: 10px;
+  line-height: 1.1em;
+  padding: 6px 10px;
+  position: relative;
+}
+
+.miga_simple_events_container .miga_simple_events_theme1 .miga_simple_events_dayName {
+  font-size: 0.9em;
+}
+
+.miga_simple_events_container .miga_simple_events_theme1 .miga_simple_events_day {
+  font-weight: bold;
+  font-size: 1.3em;
+  line-height: 1.3em;
+}
+
+.miga_simple_events_container .miga_simple_events_theme1 .miga_simple_events_dateTo:before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 50%;
+  width: 2px;
+  height: 2px;
+  background-color: #000;
+  border-radius: 100%;
+}
+
+.miga_simple_events_ul.miga_simple_events_theme1 li {
+  margin-bottom: 10px;
+}
+
+.miga_simple_events_container .miga_simple_events_theme1 .text {
+  font-size: 1.1em;
+}
+
+.miga_simple_events_container .miga_simple_events_theme1 .time {
+  font-size: 0.8em;
+  line-height: 0.8em;
+  font-weight: bold;
+}
+
+.miga_simple_events_container .miga_simple_events_theme1 .miga_simple_events_date_link {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  left: 0
+}

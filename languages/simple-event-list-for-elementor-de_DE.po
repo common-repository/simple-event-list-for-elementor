@@ -1,0 +1,421 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-03-12 14:04+0100\n"
+"PO-Revision-Date: 2023-03-12 14:04+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: widget\n"
+"X-Poedit-SearchPath-1: miga_simple_events.php\n"
+
+#: miga_simple_events.php:120 miga_simple_events.php:121
+msgid "Simple Events"
+msgstr "Simple Events"
+
+#: miga_simple_events.php:138
+msgid "new item"
+msgstr "neuer Eintrag"
+
+#: miga_simple_events.php:142
+msgid "Help"
+msgstr "Hilfe"
+
+#: widget/includes/backend_page.php:13 widget/includes/backend_page.php:139
+msgid "add"
+msgstr "hinzufügen"
+
+#: widget/includes/backend_page.php:102
+msgid "New event"
+msgstr "Neues Event"
+
+#: widget/includes/backend_page.php:107 widget/includes/table_class.php:113
+msgid "From (date)"
+msgstr "Von (Datum)"
+
+#: widget/includes/backend_page.php:108 widget/includes/table_class.php:114
+msgid "From (time)"
+msgstr "Von (Uhrzeit)"
+
+#: widget/includes/backend_page.php:109 widget/includes/table_class.php:115
+msgid "To (date)"
+msgstr "Bis (Datum)"
+
+#: widget/includes/backend_page.php:110 widget/includes/table_class.php:116
+msgid "To (time)"
+msgstr "Bis (Uhrzeit)"
+
+#: widget/includes/backend_page.php:111 widget/includes/table_class.php:117
+#: widget/simple_events.php:280
+msgid "Text"
+msgstr "Text"
+
+#: widget/includes/backend_page.php:112 widget/includes/table_class.php:118
+msgid "Link"
+msgstr "Link"
+
+#: widget/includes/backend_page.php:137
+msgid "update"
+msgstr "Update"
+
+#: widget/includes/backend_page.php:147
+msgid "Current events"
+msgstr "Aktuell Events"
+
+#: widget/includes/constants.php:4
+msgid "Jan"
+msgstr "Jan"
+
+#: widget/includes/constants.php:5
+msgid "Feb"
+msgstr "Feb"
+
+#: widget/includes/constants.php:6
+msgid "Mar"
+msgstr "Mär"
+
+#: widget/includes/constants.php:7
+msgid "Apr"
+msgstr "Apr"
+
+#: widget/includes/constants.php:8
+msgid "May"
+msgstr "Mai"
+
+#: widget/includes/constants.php:9
+msgid "Jun"
+msgstr "Jun"
+
+#: widget/includes/constants.php:10
+msgid "Jul"
+msgstr "Jul"
+
+#: widget/includes/constants.php:11
+msgid "Aug"
+msgstr "Aug"
+
+#: widget/includes/constants.php:12
+msgid "Sep"
+msgstr "Sep"
+
+#: widget/includes/constants.php:13
+msgid "Oct"
+msgstr "Okt"
+
+#: widget/includes/constants.php:14
+msgid "Nov"
+msgstr "Nov"
+
+#: widget/includes/constants.php:15
+msgid "Dec"
+msgstr "Dez"
+
+#: widget/includes/constants.php:20
+msgid "Mo"
+msgstr "Mo"
+
+#: widget/includes/constants.php:21
+msgid "Di"
+msgstr "Di"
+
+#: widget/includes/constants.php:22
+msgid "Mi"
+msgstr "Mi"
+
+#: widget/includes/constants.php:23
+msgid "Do"
+msgstr "Do"
+
+#: widget/includes/constants.php:24
+msgid "Fr"
+msgstr "Fr"
+
+#: widget/includes/constants.php:25
+msgid "Sa"
+msgstr "Sa"
+
+#: widget/includes/constants.php:26
+msgid "So"
+msgstr "So"
+
+#: widget/includes/table_class.php:119
+msgid "Visible"
+msgstr "Sichtbar"
+
+#: widget/includes/table_class.php:176
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: widget/includes/table_class.php:177 widget/includes/table_class.php:188
+msgid "Delete"
+msgstr "Entfernen"
+
+#: widget/includes/table_class.php:178 widget/includes/table_class.php:189
+msgid "Toggle visibility"
+msgstr "Sichtbarkeit wechseln"
+
+#: widget/includes/theme1.php:29
+msgid "from"
+msgstr "von"
+
+#: widget/includes/theme1.php:31 widget/includes/theme1.php:83
+#: widget/includes/theme2.php:22
+msgid "h"
+msgstr "Uhr"
+
+#: widget/includes/theme1.php:81
+msgid "until"
+msgstr "bis"
+
+#: widget/simple_events.php:12
+msgid "Simple events"
+msgstr "Simple Events"
+
+#: widget/simple_events.php:37
+msgid "Text Color"
+msgstr "Textfarbe"
+
+#: widget/simple_events.php:49
+msgid "Layout"
+msgstr "Layout"
+
+#: widget/simple_events.php:56
+msgid "Theme"
+msgstr "Theme"
+
+#: widget/simple_events.php:60
+msgid "Theme 1"
+msgstr "Theme 1"
+
+#: widget/simple_events.php:61
+msgid "Theme 2"
+msgstr "Theme 2"
+
+#: widget/simple_events.php:70
+msgid "Show day names"
+msgstr "Zeige Tag-Namen"
+
+#: widget/simple_events.php:72 widget/simple_events.php:84
+#: widget/simple_events.php:96 widget/simple_events.php:107
+#: widget/simple_events.php:119
+msgid "Show"
+msgstr "anzeigen"
+
+#: widget/simple_events.php:73 widget/simple_events.php:85
+#: widget/simple_events.php:97 widget/simple_events.php:108
+#: widget/simple_events.php:120
+msgid "Hide"
+msgstr "nein"
+
+#: widget/simple_events.php:82
+msgid "Show year"
+msgstr "Zeige Jahr"
+
+#: widget/simple_events.php:94
+msgid "Show time (from)"
+msgstr "Zeige Zeit (von)"
+
+#: widget/simple_events.php:105
+msgid "Show time (to)"
+msgstr "Zeige Zeit (bis)"
+
+#: widget/simple_events.php:117
+msgid "Show \"no events\" text"
+msgstr "Zeige \"Keine Events\" Text"
+
+#: widget/simple_events.php:128
+msgid "\"No events\" text"
+msgstr "\"Keine Events\" Text"
+
+#: widget/simple_events.php:130
+msgid "Currently no events"
+msgstr "Aktuell keine Events"
+
+#: widget/simple_events.php:131
+msgid "Type your text here"
+msgstr "Text eingeben"
+
+#: widget/simple_events.php:143
+msgid "Fixed height"
+msgstr "Feste Höhe"
+
+#: widget/simple_events.php:170
+msgid "Item spacing"
+msgstr "Zeilenabstand"
+
+#: widget/simple_events.php:198
+msgid "Day"
+msgstr "Tag"
+
+#: widget/simple_events.php:208
+msgid "Day name"
+msgstr "Tag Name"
+
+#: widget/simple_events.php:218
+msgid "Month"
+msgstr "Monat"
+
+#: widget/simple_events.php:228
+msgid "Year"
+msgstr "Jahr"
+
+#: widget/simple_events.php:239
+msgid "Background box"
+msgstr "Box-Hintergrund"
+
+#: widget/simple_events.php:256
+msgid "Border radius"
+msgstr "Rahmen-Radius"
+
+#: widget/simple_events.php:267
+msgid "Padding"
+msgstr "Padding"
+
+#: widget/simple_events.php:290
+msgid "Time"
+msgstr "Zeit"
+
+#~ msgid "Calendars"
+#~ msgstr "Kalender"
+
+#~ msgid "Events"
+#~ msgstr "Events"
+
+#~ msgid "Status/Classes"
+#~ msgstr "Status/Klassen"
+
+#~ msgid "Content"
+#~ msgstr "Inhalt"
+
+#~ msgid "Calendar"
+#~ msgstr "Kalender"
+
+#~ msgid "Full width"
+#~ msgstr "Volle Breite"
+
+#~ msgid "Show legend"
+#~ msgstr "Legende anzeigen"
+
+#~ msgid "yes"
+#~ msgstr "Ja"
+
+#~ msgid "no"
+#~ msgstr "Nein"
+
+#~ msgid "Legend position"
+#~ msgstr "Position d. Legende"
+
+#~ msgid "Side"
+#~ msgstr "Seite"
+
+#~ msgid "Below"
+#~ msgstr "Unterhalb"
+
+#~ msgid "Day width"
+#~ msgstr "Breite Tag"
+
+#~ msgid "Default days"
+#~ msgstr "Standard Tag"
+
+#~ msgid "Day font color"
+#~ msgstr "Textfarbe Tag"
+
+#~ msgid "Background color day"
+#~ msgstr "Hintergrundfarbe Tag"
+
+#~ msgid "Background color empty day"
+#~ msgstr "Hintergrundfarbe leerer Tag"
+
+#~ msgid "Days with status"
+#~ msgstr "Tag mit Status"
+
+#~ msgid "Background Color (second)"
+#~ msgstr "Hintergrundfarbe (zweite Farbe)"
+
+#~ msgid "Font Color with status"
+#~ msgstr "Textfarbe mit Status"
+
+#~ msgid "Legend"
+#~ msgstr "Legende"
+
+#~ msgid "Simple Calendar (Legend)"
+#~ msgstr "Simple Calendar (Legende)"
+
+#~ msgid "Tu"
+#~ msgstr "Di"
+
+#~ msgid "We"
+#~ msgstr "Mi"
+
+#~ msgid "today"
+#~ msgstr "Heute"
+
+#~ msgid "Add calendar"
+#~ msgstr "Kalender hinzufügen"
+
+#~ msgid "Create different calendars you can select in the Elementor Calendar widget. Each calendar can have it's own events."
+#~ msgstr "Erstelle verschiedene Kalender, die du dann im Elementor Kalender Widget auswählen kannst. Pro Kalender kannst du eigene Events vergeben."
+
+#~ msgid "Select a calendar and add an event to a day. To add or change a status go to the <b>Status/Classes</b> tab."
+#~ msgstr "Wähle einen Kalender und setze den Status für die Tage. Um einen neuen Status anzulegen gehe in den <b>Status/Klassen</b> Tab."
+
+#~ msgid "Current calendar"
+#~ msgstr "Aktueller Kalender"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "No calendar found. Please add a calendar first."
+#~ msgstr "Kein Kalender gefunden. Bitte erst einen Kalender anlegen."
+
+#~ msgid "Status/Name"
+#~ msgstr "Status/Name"
+
+#~ msgid "CSS class"
+#~ msgstr "CSS Klasse"
+
+#~ msgid "delete"
+#~ msgstr "entfernen"
+
+#~ msgid "Add new status"
+#~ msgstr "Status hinzufügen"
+
+#~ msgid "Add status"
+#~ msgstr "Status hinzufügen"
+
+#~ msgid "Add class"
+#~ msgstr "CSS Klasse"
+
+#~ msgid "Status and classes"
+#~ msgstr "Status und Klassen"
+
+#~ msgid "Here you define the status options you can pick for each day. The status name will be visible in the legend and the class will be added to the day.<br/><b>half_blocked</b> and <b>blocked</b> are deafult options."
+#~ msgstr "Hier kannst du die Statusnamen vergeben, die du den Tagen zuweisen kannst. Der Statusname wird in der Legende angezeigt und die CSS Klasse wie auf den Tag geschrieben. <br/> <b>half_blocked</b> und <b>blocked</b> sind Standard-Optionen."
+
+#~ msgid "Add new status/classes"
+#~ msgstr "Status/Klassen"
+
+#~ msgid "Below the table you can add a new status name and a class. Go to Appearance - Customizer you can set the styles for that class.<br/>Use <code>.calendar__day.your_class {}</code> to set your styles."
+#~ msgstr "Unter der Tabelle kannst du neue Statusnamen und CSS Klassen anlegen. Gehe zu Design - Customizer und die Styles zu setzen.<br/>Nutze <code>.calendar__day.your_class {}</code> für deine Styles."
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Color schema"
+#~ msgstr "Farbschema"
+
+#~ msgid "Red"
+#~ msgstr "Rot"
+
+#~ msgid "Green"
+#~ msgstr "Grün"
+
+#~ msgid "Blue"
+#~ msgstr "Blau"

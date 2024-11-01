@@ -1,0 +1,11 @@
+.miga_simple_events_container {
+  overflow-y: auto;
+}
+
+.miga_simple_events_ul {
+  padding: 0;
+  margin: 0;
+}
+.miga_simple_events_ul li:last-child {
+  margin-bottom: 0 !important;
+}
